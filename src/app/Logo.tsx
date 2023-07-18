@@ -4,7 +4,7 @@ import { Image } from "@nextui-org/react";
 export default function Logo ()
 {
     return (
-        <a href  = "https://github.com/ingila185" target = "blank">
+        <a href  = "https://github.com/ingila185/NextUIThemeToggle" target = "blank">
         <Image
         
       width={20}
